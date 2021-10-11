@@ -1,0 +1,12 @@
+C:\Users\vyshk\RiderProjects\LINQ\CountryLIB\bin\Debug\net5.0\CountryLIB.deps.json
+C:\Users\vyshk\RiderProjects\LINQ\CountryLIB\bin\Debug\net5.0\CountryLIB.dll
+C:\Users\vyshk\RiderProjects\LINQ\CountryLIB\bin\Debug\net5.0\ref\CountryLIB.dll
+C:\Users\vyshk\RiderProjects\LINQ\CountryLIB\bin\Debug\net5.0\CountryLIB.pdb
+C:\Users\vyshk\RiderProjects\LINQ\CountryLIB\obj\Debug\net5.0\CountryLIB.csproj.AssemblyReference.cache
+C:\Users\vyshk\RiderProjects\LINQ\CountryLIB\obj\Debug\net5.0\CountryLIB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vyshk\RiderProjects\LINQ\CountryLIB\obj\Debug\net5.0\CountryLIB.AssemblyInfoInputs.cache
+C:\Users\vyshk\RiderProjects\LINQ\CountryLIB\obj\Debug\net5.0\CountryLIB.AssemblyInfo.cs
+C:\Users\vyshk\RiderProjects\LINQ\CountryLIB\obj\Debug\net5.0\CountryLIB.csproj.CoreCompileInputs.cache
+C:\Users\vyshk\RiderProjects\LINQ\CountryLIB\obj\Debug\net5.0\CountryLIB.dll
+C:\Users\vyshk\RiderProjects\LINQ\CountryLIB\obj\Debug\net5.0\ref\CountryLIB.dll
+C:\Users\vyshk\RiderProjects\LINQ\CountryLIB\obj\Debug\net5.0\CountryLIB.pdb
